@@ -1,4 +1,5 @@
 Oi! 👋
+
 Sou <a href = "https://maxmartinovich.github.io/meu-portfolio/">Max</a>, desenvolvedor front-end em início de carreira, focado em aprender na prática e construir interfaces funcionais, modernas e bem organizadas.
 
 Gosto de transformar ideias em projetos reais, sempre buscando evoluir meu código, melhorar a experiência do usuário e entender como as coisas funcionam por baixo do capô.
