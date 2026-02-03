@@ -27,7 +27,7 @@ Gosto de transformar ideias em projetos reais, sempre buscando evoluir meu códi
 
 • <a href = "https://maxmartinovich.github.io/youtube-clone/">YouTube Clone</a> – Clone da interface do YouTube para praticar layout e responsividade
 
-• <a href = "https://maxmartinovich.github.io/calculadora-IMC/"> "Calculadora de IMC</a> – Aplicação simples para cálculo do Índice de Massa Corporal, exibindo resultado e classificação de forma clara e intuitiva
+• <a href = "https://maxmartinovich.github.io/calculadora-IMC/"> Calculadora de IMC</a> – Aplicação simples para cálculo do Índice de Massa Corporal, exibindo resultado e classificação de forma clara e intuitiva
 
 • **Curiosidades:**
 
