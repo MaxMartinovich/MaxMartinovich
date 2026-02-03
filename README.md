@@ -29,7 +29,7 @@ Gosto de transformar ideias em projetos reais, sempre buscando evoluir meu códi
 
 • <a href = "https://maxmartinovich.github.io/calculadora-IMC/"> Calculadora de IMC</a> – Aplicação simples para cálculo do Índice de Massa Corporal, exibindo resultado e classificação de forma clara e intuitiva
 
-• **Curiosidades:**
+**Curiosidades:**
 
 Estou em constante aprendizado e não desisto fácil
 
