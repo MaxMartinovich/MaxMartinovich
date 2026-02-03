@@ -7,8 +7,11 @@ Gosto de transformar ideias em projetos reais, sempre buscando evoluir meu códi
 **Atualmente estou focado em:**
 
 • HTML5
+
 • CSS
+
 • JavaScript
+
 
 • Lógica de programação e boas práticas
 
