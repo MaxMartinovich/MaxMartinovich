@@ -4,27 +4,29 @@ Sou <a href = "https://maxmartinovich.github.io/meu-portfolio/">Max</a>, desenvo
 
 Gosto de transformar ideias em projetos reais, sempre buscando evoluir meu código, melhorar a experiência do usuário e entender como as coisas funcionam por baixo do capô.
 
-Atualmente estou focado em:
+**Atualmente estou focado em:**
 
-**HTML, CSS e JavaScript**
+• HTML5
+• CSS
+• JavaScript
 
-Lógica de programação e boas práticas
+• Lógica de programação e boas práticas
 
-Interfaces responsivas e interativas
+• Interfaces responsivas e interativas
 
-Projetos pequenos e médios para ganhar consistência
+• Projetos pequenos e médios para ganhar consistência
 
-Alguns projetos que já desenvolvi:
+**Alguns projetos que já desenvolvi:**
 
-**Weather App** – Aplicação de clima com busca por cidade, troca de tema, uso de microfone e personalização de cores
+• <a href = "https://maxmartinovich.github.io/weather-app/">Weather App</a> – Aplicação de clima com busca por cidade, troca de tema, uso de microfone e personalização de cores
 
-**To Do List** – Lista de tarefas simples e intuitiva, com foco em organização e produtividade
+• <a href = "https://maxmartinovich.github.io/todo-app/">To Do List</a> – Lista de tarefas simples e intuitiva, com foco em organização e produtividade
 
-**YouTube Clone** – Clone da interface do YouTube para praticar layout e responsividade
+• <a href = "https://maxmartinovich.github.io/youtube-clone/">YouTube Clone</a> – Clone da interface do YouTube para praticar layout e responsividade
 
-**Calculadora de IMC** – Aplicação simples para cálculo do Índice de Massa Corporal, exibindo resultado e classificação de forma clara e intuitiva
+• <a href = "https://maxmartinovich.github.io/calculadora-IMC/"> "Calculadora de IMC</a> – Aplicação simples para cálculo do Índice de Massa Corporal, exibindo resultado e classificação de forma clara e intuitiva
 
-**Curiosidades:**
+• **Curiosidades:**
 
 Estou em constante aprendizado e não desisto fácil
 
